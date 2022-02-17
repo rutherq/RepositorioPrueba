@@ -1,5 +1,4 @@
-# Este es el encabezado para ejercicio 4  
-
+cambio 
 ### Para crear listas tenemos que utilizar - o *  
   - Esto es una lista con un guion. 
   * Esto es una lista con un asterisco. 
